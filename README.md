@@ -27,7 +27,7 @@ Clean Code Weather app to get the current weather info.
 In This App i used:
 - Jetpack Compose for the design
 - Retrofit & Rest apis for dealing and get the api data
-- Weather Mento Api
+- Weather Meteo Api
 - Location Services for tracking the location
 - MVVM architecture pattern
 - MVI architecture pattern
