@@ -11,12 +11,25 @@ Clean Code Weather app to get the current weather info. using MVI Architecture P
 
 ## Features
 
-- Location Tracking ( The weather info changes automatically when you move from your place and go to somewhere ).
+- Location Tracking ( get the current locaton of the user, and the weather info changes automatically when the location changes ).
 - Modern UI design with Jetpack Compose.
 - Clean Code using Clean Architecture Pattern (MVI).
 - Can Get the all weather info for the remaining hours of the day.
 - get the current weather info for the current hour and represent it in simple user interface design & Accessibility.
 - Permisson check ( if you grant the location and internet permisson or not).
+
+
+
+## Acknowledge
+
+In This App i used:
+- Jetpack Compose for the design
+- Retrofit & Rest apis for dealing and get the api data
+- Weather Mento Api
+- Location Services for tracking the location
+- MVVM architecture pattern
+- MVI architecture pattern
+
 
 
 
