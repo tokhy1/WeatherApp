@@ -1,6 +1,6 @@
 # Weather Applicatoin
 
-Clean Code Weather app to get the current weather info. using MVI Architecture Pattern.
+Clean Code Weather app to get the current weather info.
 
 
 ### Preview
