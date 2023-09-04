@@ -5,7 +5,7 @@ Clean Code Weather app to get the current weather info. using MVI Architecture P
 
 ### Preview
 
-
+![App preview](https://github.com/tokhy1/WeatherApp/assets/140895791/11582672-1e6b-45a6-9d61-fef320849e2a)
 
 
 
