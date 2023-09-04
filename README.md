@@ -11,12 +11,14 @@ Clean Code Weather app to get the current weather info.
 
 ## Features
 
-- Location Tracking ( get the current locaton of the user, and the weather info changes automatically when the location changes ).
+- Location Tracking (get the current location of the user, and the weather info changes automatically when the location changes).
 - Modern UI design with Jetpack Compose.
-- Clean Code using Clean Architecture Pattern (MVI).
-- Can Get the all weather info for the remaining hours of the day.
+- Clean Code using Clean Architecture Patterns (MVI & MVVM).
+- Can Get the weather info for the remaining hours of the day.
 - get the current weather info for the current hour and represent it in simple user interface design & Accessibility.
-- Permisson check ( if you grant the location and internet permisson or not).
+- Permissions check (if you grant the location and internet permission or not).
+
+
 
 
 
