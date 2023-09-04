@@ -1,4 +1,4 @@
-# Weather Applicatoin
+# Weather Application
 
 Clean Code Weather app to get the current weather info.
 
